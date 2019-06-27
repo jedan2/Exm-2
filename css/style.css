@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Rubik+Mono+One&display=swap');
+body{
+	font-family: 'Roboto', sans-serif;
+
+}
+  
+
+.content-2 img{
+    width: 100%;
+    padding: 10px 0;
+}
+header{
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+.header-content span{
+	width: 60px;
+	height: 1px;
+	display: inline-block;
+	background: black;
+	margin: 0 10px;
+}
+.header-content p{
+    display: inline-block;
+    font-size: 15px;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+ 
+.custom h1{
+    font-size: 90px;
+    font-weight: 900;
+    line-height: 1;
+}
+.custom p{
+    font-size: 30px;
+    font-weight: 300;
+    padding-top: 10px;
+    line-height: 1;
+}
+
+.content{padding-top: 50px;}
+.content h1{
+    font-size: 36px;
+    font-weight: 900;
+    padding-bottom: 30px;
+}
+.content h4{
+    font-weight: 900;
+    font-size: 36px;
+    padding: 5px 0;
+}
+.content h2{
+    font-size: 36px;
+    font-weight: 900;
+    padding-top: 48px;
+    padding-bottom: 5px;
+}
+.content p{
+    font-size: 15px;
+    font-weight: 300;
+    color: #757070ed;
+}
+.icon p{
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    padding-top: 63px;
+}
+.icon h3{}
+.icon span{
+    width: 60px;
+    height: 1px;
+    display: inline-block;
+    background: black;
+}
+.icon{
+}
+.what-we-do{}
+.what-we-do img{
+    width: 350px;
+    height: 170px;
+    display: block;
+    position: relative;
+}
+.what-we-do i{
+    position: absolute;
+    bottom: -20px;
+    left: 290px;
+    font-size: 24px;
+    border: 1px solid;
+    border-color: #f9f7f7;
+    padding: 15px 15px;
+    background: #f2f2f2;
+}
+.what-we-do p{
+    margin-top: 10px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.map img{
+	width: 100%;
+	display: block;
+}
+.map{
+	background-color: #F8F8F8;
+	padding-top: 50px
+	padding-bottom:50px;
+	padding: 81px 0;
+}
+
+footer{
+    background: #000;
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+footer p{
+    color: #fff;
+    font-size: 12px;
+    padding-top: 10px;
+    position: relative;
+}
+footer h4{
+    color: #fff;
+    font-size: 24px;
+    padding-bottom: 30px;
+}
+footer a{
+    color: #fff;
+    font-size: 13px;
+    text-decoration: underline;
+}
+footer h6{
+	position: absolute;
+	bottom: 8px;left: 170px;
+	font-size: 12px;color: #fff;
+	text-decoration: underline;
+}
+
+.portfulio img{
+    width: 100%;
+    display: block;
+}
+.portfulio{
+	padding-top: 45px;
+	padding-bottom: 70px;
+}
+.amr{
+	padding-bottom: 80px;
+}
